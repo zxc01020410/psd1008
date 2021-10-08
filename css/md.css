@@ -1,17 +1,10 @@
-#div {
-    height:1380px;
-    width: 840px;
+body{
     background-color: #bfd8c6;
-    text-align: center;
-  }
-#main{
-    background: #fff;
-    width:800px;
-    margin: auto;
-    color:black;
 }
 #mainContainer{
-    width: 100%;
+    width: 1380px;
+    height:840px ;
+    text-align: center;
 }
 #wapper{
     width: 800px;
